@@ -1,0 +1,12 @@
+{
+  "evenementen": [
+    {"id": 1,"title": "Zorgmarathon", "date": "10/12/2016"},
+    {"id": 2,"title": "Beurs", "date": "12/12/2016"},
+    {"id": 3,"title": "Onze zorgevenement", "date": "30/12/2016"}
+  ],
+  "nieuws": [
+    {"id": 1,"title": "Zorgmarathon", "date": "29/02/2016", "image": "Rectangle 5.png", "likes":0},
+    {"id": 2,"title": "VIO erkend als theoretisch goed", "date": "12/12/2016", "image": "Rectangle 5 Copy.png", "likes":0},
+    {"id": 3,"title": "Commissiebrief over nieuwe Wlz", "date": "30/12/2016", "image": "Rectangle 5 Copy 2.png", "likes":0}
+  ]
+}
